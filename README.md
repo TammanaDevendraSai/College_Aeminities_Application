@@ -12,6 +12,8 @@ This application includes four categories like
 
 • Academic section (This section involves all the academic details of stud’s)
 
+Below are screenshots of the application  
+
 **Splash Screen:**
 
 ![2 (2)](https://github.com/TammanaDevendraSai/College_Amenities_Application/assets/138999206/5612636c-14c7-41c0-b9d0-550d09b8f429)
